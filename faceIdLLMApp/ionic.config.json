@@ -1,0 +1,7 @@
+{
+  "name": "faceIdLLMApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "myAppWithTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
